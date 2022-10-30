@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 En github.com:
 1. https://github.com/settings/profile
@@ -7,5 +7,5 @@ En github.com:
 4. New oauth app
 5. Rellenar los datos
 6. Obtener client id y secret id
->>>>>>> e6327f7ba845375a93228da2bb2927ce2e403ccc
+
 
